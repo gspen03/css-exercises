@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+
+/* Only need to add quotes where the item contains a space */
+.odd {
+    background-color: rgb(236, 123, 145);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(43, 75, 160);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(97, 223, 107);
+    font-size: 24px; 
+    font-weight: bold;
+}
